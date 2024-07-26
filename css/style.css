@@ -274,13 +274,14 @@ top:40%;
     color: rgba(256, 256, 256, .5);
 }
 .btn2{
-    background: hsla(0, 0%, 65%, 1) !important;
+    ;
     transition: 0.9s ease !important;
-    color: hsla(210, 4%, 9%, 1) !important;
+    color: #fff !important;
     border-color: hsla(0, 0%, 65%, 1) !important;
+	background: #8b795e !important;
 }
 .btn2:hover{
-    background: #8b795e !important;
+    background: hsla(0, 0%, 65%, 1) !important
     color: #fff !important;
 }
 
