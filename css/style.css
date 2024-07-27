@@ -9,6 +9,11 @@
 body{
     background-color: hsla(0, 0%, 100%, 0.2);
 }
+.text-ery{
+
+    color: hsla(210, 4%, 9%, 1) !important;
+
+}
 /*** Spinner ***/
 #spinner {
     opacity: 0;
