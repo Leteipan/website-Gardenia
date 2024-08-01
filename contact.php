@@ -9,7 +9,7 @@ $need = $_POST['need']
 $message= $_POST['message'];
  
 // an email address that will be in the From field of the email.
-$from = 'https://formspree.io/f/Therapigarden@gmail.com';
+$from = 'https://formspree.io/f/Denisleteipan45@gmail.com';
 
 // an email address that will receive the email with the output of the form
 $sendTo = 'Therapigarden@gmail.com';
